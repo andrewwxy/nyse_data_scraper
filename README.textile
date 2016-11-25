@@ -1,0 +1,1 @@
+Scrapes a Yahoo Finance Stock Page and builds data set for daily stock information. Modify HTML as needed for different stock pages.
